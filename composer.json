@@ -1,0 +1,21 @@
+{
+  "require": {
+    "php": ">=7.0",
+    "jublonet/codebird-php": "^3.1",
+    "bugsnag/bugsnag": "^3.12",
+    "swiftmailer/swiftmailer": "^6.0",
+    "ext-intl": "^1.1",
+    "psr/log": "^1.0",
+    "vlucas/phpdotenv": "^2.4",
+    "mgp25/instagram-php": "^4.1",
+    "true/punycode": "^2.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "CryptoStatus\\": "app/classes/"
+    },
+    "files": [
+      "app/config/config.php"
+    ]
+  }
+}
