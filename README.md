@@ -43,3 +43,6 @@ This application is licensed under the [MIT license](https://github.com/mallorka
 
 # MALLORKA - AD - 2018
 webmaster@mallorkagps.com
+
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/h1pot)
